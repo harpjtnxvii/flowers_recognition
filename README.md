@@ -260,5 +260,5 @@ Kalau ada questions atau suggestions, jangan ragu untuk reach out atau open issu
 ---
 
 **Author:** Harbangan Panjaitan
-**Contact:** bangandude@gmail.com 
+**Contact:** bangandude@gmail.com  
 **Project Link:** https://github.com/yourusername/flower-recognition-cnn
